@@ -1,5 +1,5 @@
-#include<stdio.h>
-main(){
-  void big3.c();
-  void fact.c();
+#include <stdio.h>
+  void main(){
+  void big3();
+  void fact();
 }
